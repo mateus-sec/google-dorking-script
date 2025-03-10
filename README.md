@@ -15,4 +15,4 @@ Antes de rodar o script, você precisará ter o seguinte instalado:
 
 chmod +x google_dork.sh
 
-./google_dork.sh
+./google_dorks.sh
